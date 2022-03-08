@@ -1,1 +1,1 @@
-# algorithm-deposit-repo
+# algorithm-catalog-repo
